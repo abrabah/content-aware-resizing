@@ -1,0 +1,14 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "a presentation about seam carving",
+  "scripts": {
+  "start": "reveal-md seam-carving-no-nn.md",
+  "test": "reveal-md seam-carving-no-nn.md -w --disableAutoOpen"
+  },
+  "author": "abrabah",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "0.0.34"
+  }
+}

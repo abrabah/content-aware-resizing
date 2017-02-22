@@ -1,0 +1,10 @@
+#! /bin/bash
+
+
+if [ ! -f Image.class ]; then
+    javac Image.java
+fi
+
+java Image $@
+
+

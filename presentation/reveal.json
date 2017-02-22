@@ -1,0 +1,7 @@
+{
+"controls": false,
+"theme": "simple-mod.css",
+"progress": false,
+"transition":"slide",
+"transitionSpeed":"fast"
+}
